@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This project aims to demonstrate data science project using Jypiter Notebook.
+This project aims to demonstrate Applied Data Science Capstone Project using Jypiter Notebook.
